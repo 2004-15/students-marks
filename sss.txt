@@ -41,4 +41,4 @@ printf("=============================\n");
 for(i=0;i<size;i++) {
   printf("%d\t%d\t%-15s\t%d\n",i+1,s[i].rollno,s[i].name,s[i].total);
   }
-}
+} 
